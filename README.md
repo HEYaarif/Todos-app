@@ -16,7 +16,7 @@ A simple and clean Todo application built with **React** and **Redux Toolkit**. 
 - [React](https://reactjs.org/)
 - [Redux Toolkit](https://redux-toolkit.js.org/)
 - [Tailwind CSS](https://tailwindcss.com/)
-- [Vite](https://vitejs.dev/) *(if you're using it)*
+- [Vite](https://vitejs.dev/)
 
 ---
 
