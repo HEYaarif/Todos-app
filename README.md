@@ -1,12 +1,27 @@
-# React + Vite
+# 📝 Todo Application (React + Redux Toolkit)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple and clean Todo application built with **React** and **Redux Toolkit**. You can add, edit, and delete your tasks with a smooth UI using **Tailwind CSS**.
 
-Currently, two official plugins are available:
+## 🚀 Features
+- ✅ Add a new todo
+- ✏️ Edit an existing todo
+- ❌ Delete a todo
+- 🎨 Styled with Tailwind CSS
+- 🧠 State management using Redux Toolkit
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## 🔧 Technologies Used
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- [React](https://reactjs.org/)
+- [Redux Toolkit](https://redux-toolkit.js.org/)
+- [Tailwind CSS](https://tailwindcss.com/)
+- [Vite](https://vitejs.dev/) *(if you're using it)*
+
+---
+
+✨ UI Preview
+1. Centered layout
+2. Responsive design
+3. Smooth transitions
+4. Clean and minimal interface
